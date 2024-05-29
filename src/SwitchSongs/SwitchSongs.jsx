@@ -4,7 +4,7 @@ function SwitchSongs({ play }) {
 
     switch (play) {
         case "song1":
-            return <audio src="http://localhost:3344/audios/song2.mp3" controls></audio>
+            return <audio src="http://localhost:3434/audios/song2.mp3" controls></audio>
 
         case 'search':
             return 

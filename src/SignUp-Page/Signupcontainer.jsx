@@ -28,7 +28,7 @@ function Signupcontainer() {
             redirect: "follow"
         };
 
-        fetch("http://localhost:3344/user/sign-up", requestOptions)
+        fetch("https://back-end-seven-steel.vercel.app/user/sign-in", requestOptions)
             .then((response) => response.json())
             .then((result) => console.log(result))
             .catch((error) => console.error(error));

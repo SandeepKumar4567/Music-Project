@@ -19,7 +19,7 @@ function Songplay1() {
             </div>
             <div>
                 <div className="song">
-                    <audio id="audio" src="http://localhost:3344/audios/song1.mp3"  controls></audio>
+                    <audio id="audio" src="http://localhost:3434/audios/song1.mp3"  controls></audio>
                 </div>
             </div>
         </div>

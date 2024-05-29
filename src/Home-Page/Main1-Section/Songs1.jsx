@@ -145,7 +145,7 @@ function Songs1({ setPlay }) {
                     <p className="para2">Teejay</p>
                 </div>
                 <button>Play</button>
-                {/* <audio src="http://localhost:3344/audios/song2.mp3" controls></audio> */}
+                {/* <audio src="http://localhost:3434/audios/song2.mp3" controls></audio> */}
 
             </div>
             <br />
@@ -164,7 +164,7 @@ function Songs1({ setPlay }) {
                     <p className="para2">Anirudh Ravichander</p>
                 </div>
                 <button>Play</button>
-                {/* <audio src="http://localhost:3344/audios/song3.mp3" controls></audio> */}
+                {/* <audio src="http://localhost:3434/audios/song3.mp3" controls></audio> */}
 
             </div>
             <br />
@@ -183,7 +183,7 @@ function Songs1({ setPlay }) {
                     <p className="para2">Vivek - Mervin</p>
                 </div>
                 <button>Play</button>
-                {/* <audio src="http://localhost:3344/audios/song4.mp3" controls></audio> */}
+                {/* <audio src="http://localhost:3434/audios/song4.mp3" controls></audio> */}
 
             </div>
             <br />
@@ -202,7 +202,7 @@ function Songs1({ setPlay }) {
                     <p className="para2">Kumaresh - Keshini</p>
                 </div>
                 <button>Play</button>
-                {/* <audio src="http://localhost:3344/audios/song5.mp3" controls></audio> */}
+                {/* <audio src="http://localhost:3434/audios/song5.mp3" controls></audio> */}
 
             </div>
             <br />
@@ -221,7 +221,7 @@ function Songs1({ setPlay }) {
                     <p className="para2">Santhosh Dhayanidhi,Bamba Bakya</p>
                 </div>
                 <button>Play</button>
-                {/* <audio src="http://localhost:3344/audios/song6.mp3" controls></audio> */}
+                {/* <audio src="http://localhost:3434/audios/song6.mp3" controls></audio> */}
 
             </div>
             <br />
@@ -240,7 +240,7 @@ function Songs1({ setPlay }) {
                     <p className="para2">Stephen Zechariah</p>
                 </div>
                 <button>Play</button>
-                {/* <audio src="http://localhost:3344/audios/song7.mp3" controls></audio> */}
+                {/* <audio src="http://localhost:3434/audios/song7.mp3" controls></audio> */}
 
             </div>
             <br />
@@ -259,7 +259,7 @@ function Songs1({ setPlay }) {
                     <p className="para2">ADK Srirascol,Teejay</p>
                 </div>
                 <button>Play</button>
-                {/* <audio src="http://localhost:3344/audios/song8.mp3" controls></audio> */}
+                {/* <audio src="http://localhost:3434/audios/song8.mp3" controls></audio> */}
 
             </div>
             <br />
@@ -278,7 +278,7 @@ function Songs1({ setPlay }) {
                     <p className="para2">Teejay</p>
                 </div>
                 <button>Play</button>
-                {/* <audio src="http://localhost:3344/audios/song9.mp3" controls></audio> */}
+                {/* <audio src="http://localhost:3434/audios/song9.mp3" controls></audio> */}
 
             </div>
             <br />
@@ -297,7 +297,7 @@ function Songs1({ setPlay }) {
                     <p className="para2">Santhosh Narayanan,Dhee,Vivek</p>
                 </div>
                 <button>Play</button>
-                {/* <audio src="http://localhost:3344/audios/song10.mp3" controls></audio> */}
+                {/* <audio src="http://localhost:3434/audios/song10.mp3" controls></audio> */}
 
             </div>
             <br />
@@ -316,7 +316,7 @@ function Songs1({ setPlay }) {
                     <p className="para2">Sai Abhyankkar</p>
                 </div>
                 <button>Play</button>
-                {/* <audio src="http://localhost:3344/audios/song11.mp3" controls></audio> */}
+                {/* <audio src="http://localhost:3434/audios/song11.mp3" controls></audio> */}
 
             </div>
             <br />
@@ -335,7 +335,7 @@ function Songs1({ setPlay }) {
                     <p className="para2">Anirudh Ravichander,Thalapathy Vijay</p>
                 </div>
                 <button>Play</button>
-                {/* <audio src="http://localhost:3344/audios/song12.mp3" controls></audio> */}
+                {/* <audio src="http://localhost:3434/audios/song12.mp3" controls></audio> */}
 
             </div>
             <br />
@@ -354,7 +354,7 @@ function Songs1({ setPlay }) {
                     <p className="para2">Anirudh Ravichander,Vivek</p>
                 </div>
                 <button>Play</button>
-                {/* <audio src="http://localhost:3344/audios/song13.mp3" controls></audio> */}
+                {/* <audio src="http://localhost:3434/audios/song13.mp3" controls></audio> */}
 
             </div>
             <br />
@@ -373,7 +373,7 @@ function Songs1({ setPlay }) {
                     <p className="para2">Dhanush</p>
                 </div>
                 <button>Play</button>
-                {/* <audio src="http://localhost:3344/audios/song14.mp3" controls></audio> */}
+                {/* <audio src="http://localhost:3434/audios/song14.mp3" controls></audio> */}
 
             </div>
             <br />
