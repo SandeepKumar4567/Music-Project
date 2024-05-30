@@ -28,7 +28,7 @@ function Signupcontainer() {
             redirect: "follow"
         };
 
-        fetch("https://back-end-seven-steel.vercel.app/user/sign-in", requestOptions)
+        fetch("https://back-end-blond-three.vercel.app/user/sign-up", requestOptions)
             .then((response) => response.json())
             .then((result) => console.log(result))
             .catch((error) => console.error(error));
