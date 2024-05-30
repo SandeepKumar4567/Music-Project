@@ -130,10 +130,14 @@ a {
 
 .song-section {
     /* height: 1400px; */
-    padding: 10px 10px 10px 10px;
+    padding: 10px 10px;
 }
 
 .song-section h2 {
+    color: white;
+}
+
+.songlist{
     color: white;
 }
 
