@@ -130,11 +130,26 @@ a {
 
 .song-section {
     /* height: 1400px; */
-    padding: 10px 10px;
+    padding: 10px;
+    margin-top: -15px;
+}
+.song-section button {
+    border: none;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    transition-duration: 0.5s;
+    margin-left: 80px;
+}
+.song-section button:hover{
+    color: rgb(128, 203, 16);
+    background-color: rgb(0, 0, 0);
+    box-shadow: 3px 3px 3px rgb(128, 203, 16);
 }
 
-.song-section h2 {
+.songlist {
     color: white;
+    margin-left: 10px;
 }
 
 .songlist{

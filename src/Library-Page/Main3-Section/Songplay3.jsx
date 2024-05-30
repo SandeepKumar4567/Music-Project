@@ -1,14 +1,27 @@
-function Songplay3() {
+import { useRef, useState } from "react";
+
+function Songplay3({ songObj }) {
+
+    // const [player,setPlayer]=useState(false);
+
+    // function handleClick() {
+    //     setPlayer(true);
+    // }
+    // if(player){
+    //     return <Viewpage />
+    // }
     return (
         <div className="songplay-section">
-            <a href="./viewpage.html">
-                <div className="song-pic"></div>
-            </a>
-            <a href="./viewpage.html">
-                <div className="song">
-                    <audio src=" " controls />
+            <div href="./viewpage.html">
+                <div className="song-pic">
+                    <img src={songObj.imageUrl} alt="" height={45} width={45} />
                 </div>
-            </a>
+            </div>
+            <div>
+                <div className="song">
+                    <audio id="audio" src={songObj.audioUrl} controls></audio>
+                </div>
+            </div>
         </div>
 
     );

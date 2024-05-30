@@ -84,6 +84,12 @@ const songsArr = [
         title: "Thaai Kelavi (From 'Thiruchitrabalam')",
         subTitle: "Dhanush",
         audioUrl: "./Songs/song14.mp3"
+    },
+    {
+        imageUrl: " empty ",
+        title: " empty ",
+        subTitle: " empty ",
+        audioUrl: "empty  "
     }
 ]
 

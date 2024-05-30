@@ -84,35 +84,65 @@
 
 /* Song Section Styles */
 
-.song-section-03{
-    height: 1400px;
-    padding: 10px 10px 10px 10px;
+.song-section-03 {
+    /* height: 1400px; */
+    padding: 10px;
+    margin-top: -15px;
 }
-.song-section-03 h2{
+.song-section-03 button {
+    border: none;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    transition-duration: 0.5s;
+    margin-left: 80px;
+}
+.song-section-03 button:hover{
+    color: rgb(128, 203, 16);
+    background-color: rgb(0, 0, 0);
+    box-shadow: 3px 3px 3px rgb(128, 203, 16);
+}
+
+.song-section-03 .songlist {
+    color: white;
+    margin-left: 10px;
+}
+
+.song-section-03 .songlist{
     color: white;
 }
-.song-section-03 .sec2div{
+
+.song-section-03 .sec2div {
     margin-top: 10px;
 
 }
-.song-section-03 .sec2div a{
+
+.song-section-03 .sec2div a {
     text-decoration: none;
 }
-.song-section-03 .para{
+
+.song-section-03 .para {
     margin-left: 75px;
     margin-top: -40px;
     color: white;
 }
-.song-section-03 .para2{
+
+.song-section-03 .para2 {
     margin-left: 75px;
     margin-top: -10px;
     color: white;
 }
-.song-section-03 .sec2square{
+
+.song-section-03 .sec2square {
     display: block;
     height: 40px;
     width: 40px;
     background-color: rgb(255, 255, 255);
+}
+
+.song-section-03 .sec2div audio {
+    margin-left: 200px;
+    margin-top: -50px;
 }
 
 /* Footer tag styles */
