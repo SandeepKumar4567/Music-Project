@@ -1,20 +1,22 @@
 import { useState } from "react";
-import Homepage from "../../../Home-Page/Homepage";
+// import Homepage from "../../Home-Page/Homepage";
 
-function SongPlayer() {
-    const [back,setBack]=useState(false);
+function SongPlayer({ songObj }) {
+    // const [back,setBack]=useState(false);
 
-    function handleClick() {
-        setBack(true)
-    }
+    // function handleClick() {
+    //     setBack(true)
+    // }
 
-    if(back){
-        <Homepage />
-    }
+    // if(back){
+    //     <Homepage />
+    // }
 
     return (
         <div className="song-player-section">
-            <div className="song-template" />
+            <div className="song-template">
+                <img src={songObj.imageUrl} alt="" height={45} width={45} />
+            </div>
             <br />
             <div className="song-name">
                 <p>
@@ -26,13 +28,13 @@ function SongPlayer() {
             </div>
             <br />
             <div className="song">
-                <audio src="" controls />
+                <audio id="audio" src={songObj.audioUrl} controls></audio>
             </div>
             <br />
             <br />
-            <a href="./index.html">
-                <button onClick={handleClick}>Go BACK</button>
-            </a>
+            <div>
+                <button>Go BACK</button>
+            </div>
         </div>
 
     );

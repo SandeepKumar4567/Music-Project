@@ -10,9 +10,9 @@ function Header2() {
                     type="text"
                     placeholder="What do you want to listen to?"
                 />
-                <a href="">
-                    <i className="fa-solid fa-magnifying-glass" />
-                </a>
+                <div className="icon2">
+                    <i className="fa-solid fa-magnifying-glass" disabled/>
+                </div>
             </>
 
         </div>

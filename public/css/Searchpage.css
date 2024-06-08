@@ -50,11 +50,15 @@
     box-shadow: 2px 5px 5px rgb(0, 0, 0);
     border: none;
 }
+.icon2{
+    margin-left: 270px;
+    margin-top: -20px;
+}
 
 /* Main tag styles */
 .main-02{
     background-color: rgb(0, 0, 0);
-    margin-top: 48px;
+    margin-top: 45px;
     width: 100%;
 }
 /* Playlist Section Styles */

@@ -5,8 +5,8 @@ function Header3() {
         <div className="header-03">
             <Flexpart4></Flexpart4>
             <>
-                <button className="buttons">Playlists</button>
-                <button className="buttons">Songs</button>
+                <button className="buttons" disabled>Playlists</button>
+                <button className="buttons" disabled>Songs</button>
             </>
 
         </div>

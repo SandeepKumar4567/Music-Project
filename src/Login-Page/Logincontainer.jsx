@@ -34,7 +34,7 @@ function Logincontainer() {
                 if(result.status) {
                     setAuth(true);
                 }else{
-                    alert(result.msg);
+                    alert("Please Check username and password"+" "+result.msg);
                 }
             })
             .catch((error) => console.error(error));
