@@ -71,12 +71,14 @@ function Logincontainer() {
                 <input
                     type="text"
                     value={username}
+                    placeholder="sandeep"
                     onChange={(e) => setUsername(e.target.value)} />
                 <br />
                 <label>Password</label>
                 <input
                     type="password"
                     value={password}
+                    placeholder="123"
                     onChange={(e) => setPassword(e.target.value)} />
                 <br />
                 <a>
